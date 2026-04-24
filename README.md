@@ -1,4 +1,4 @@
-# FakeNewsPrediction
+# Provisional Ballots in North Carolina
 
 ## Project Overview
 
