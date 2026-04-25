@@ -18,10 +18,8 @@ present quantitative results, accuracy metrics, qualitative outcomes from testin
 ## Individual Contribution: Mili Shah
 
 ## Data Sources
-1. North Carolina State Board of Elections Provisional Files: https://www.ncsbe.gov/results-data/absentee-and-provisional-data
+North Carolina State Board of Elections Provisional Files: https://www.ncsbe.gov/results-data/absentee-and-provisional-data#Whatisthebestwaytojoinanabsenteefilewithanotherfile-1160
   - Data Dictionary: https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/layout_provisional.txt
 
-2. North Carolina State Board of Elections Registered Voter Data: https://www.ncsbe.gov/results-data/voter-registration-data#current-data
-
-
-
+North Carolina State Board of Elections Registered Voter Data: https://www.ncsbe.gov/results-data/voter-registration-data#current-data
+  - Data Dictionary: https://s3.amazonaws.com/dl.ncsbe.gov/data/layout_ncvoter.txt
