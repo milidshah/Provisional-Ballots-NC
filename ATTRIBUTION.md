@@ -1,8 +1,8 @@
 # Attribution
 
 ## Data Source
-1. Misra, Rishabh and Jigyasa Grover. "Do Not ‘Fake It Till You Make It’! Synopsis of Trending Fake News Detection Methodologies Using Deep Learning." Deep Learning for Social Media Data Analytics (2022).
-2. Misra, Rishabh. "Politifact Fact Check Dataset." DOI: 10.13140/RG.2.2.29923.22566 (2022).
+North Carolina State Board of Elections Provisional Files: https://www.ncsbe.gov/results-data/absentee-and-provisional-data#Whatisthebestwaytojoinanabsenteefilewithanotherfile-1160
+  - Data Dictionary: https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/layout_provisional.txt
 
 ## Libraries
 
