@@ -5,7 +5,7 @@ a Quick Start section that concisely explains how to run your project,
 a Video Links section with direct links to your demo and technical walkthrough videos,
 an Evaluation section that presents any quantitative results, accuracy metrics, or qualitative outcomes from testing,
 and an Individual Contributions section for group projects that describes who did what.
-# Provisional Ballots in North Carolina
+# Provisional Ballots & Election Access in North Carolina
 
 ## Project Overview
 
