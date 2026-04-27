@@ -38,18 +38,6 @@ Project Demo: https://drive.google.com/file/d/1OfxQgMTgu-X2P3ESUPkWODZgImdEDZjV/
 Technical Walkthrough: https://drive.google.com/file/d/1bDI1w8QrmL6fXAkhvD7EYEdUDZQPJW3w/view?usp=sharing
 
 ## Evaluation
-present quantitative results, accuracy metrics, qualitative outcomes from testing
-
-## Individual Contribution: Mili Shah
-
-## Data Sources
-North Carolina State Board of Elections Provisional Files: https://www.ncsbe.gov/results-data/absentee-and-provisional-data#Whatisthebestwaytojoinanabsenteefilewithanotherfile-1160
-  - Data Dictionary: https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/layout_provisional.txt
-
-
-
-## Evaluation
-
 ### ML Model — Final Model Comparison
 
 | Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
@@ -69,6 +57,10 @@ North Carolina State Board of Elections Provisional Files: https://www.ncsbe.gov
    macro avg       0.74      0.73      0.74     24095
 weighted avg       0.75      0.75      0.75     24095
 ```
+
+## Data Sources
+North Carolina State Board of Elections Provisional Files: https://www.ncsbe.gov/results-data/absentee-and-provisional-data#Whatisthebestwaytojoinanabsenteefilewithanotherfile-1160
+  - Data Dictionary: https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/layout_provisional.txt
 
 **Key findings:**
 - The final model improves on the dummy baseline by +12.6 points in accuracy (0.75 vs 0.63) and +0.81 in ROC-AUC
